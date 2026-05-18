@@ -14,4 +14,4 @@ const books: PropsType[] = [
   { title: 'Book C', rating: 5.0 },
 ];
 
-console.log(filterByRating(books));
+// console.log(filterByRating(books));
