@@ -10,6 +10,6 @@ const formatValue = <T>(value: T): T => {
   }
 };
 
-console.log(formatValue("hello"));
-console.log(formatValue(5));
-console.log(formatValue(true));
+// console.log(formatValue("hello"));
+// console.log(formatValue(5));
+// console.log(formatValue(true));
