@@ -1,4 +1,4 @@
-class Person {
+class Problem3_Person {
   name: string;
   age: number;
 

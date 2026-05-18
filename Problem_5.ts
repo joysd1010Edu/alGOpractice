@@ -22,4 +22,4 @@ const users : objectType[] = [
   { id: 3, name: 'Rumi', email: 'rumi@example.com', isActive: true },
 ];
 
-// console.log(filterActiveUsers(users));
+// console.log((users));filterActiveUsers

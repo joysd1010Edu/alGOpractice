@@ -1,4 +1,4 @@
-const formatValue = <T>(value: T): T => {
+const Problem1_formatValue = <T>(value: T): T => {
   if (typeof value === "string") {
     return value.toUpperCase() as T;
   } else if (typeof value === "number") {

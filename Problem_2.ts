@@ -1,4 +1,4 @@
-const getLength = <T>(item: T): number => {
+const Problem2_getLength = <T>(item: T): number => {
     // console.log(`Received item: ${typeof item}`);
     if (typeof item === "string") {
         return item.length;
